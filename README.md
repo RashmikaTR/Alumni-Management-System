@@ -123,7 +123,7 @@ MIT License – You are free to use, modify, and distribute this project.
 
 ## 🙋‍♀️ Author
 
-**Shalini Wanasinghe**  
+**Rashmika TR**  
 University of Vavuniya – Faculty of Applied Sciences  
 🗓️ Year: 2025  
 📧 Feel free to reach out
